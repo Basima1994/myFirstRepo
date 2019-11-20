@@ -213,6 +213,8 @@ p {
   /* margin-left: 420; */
   margin-top: 5;
   max-width: 280px;
+  height: 150px;
+
 }
 .clearfix {
   display: flex;
@@ -293,9 +295,12 @@ div.ui-menu li {
   height: 10%;
   min-height: 50px;
   font-size: 26px;
+  margin-top: 1%;
+  font-size: 20px;
+
 }
 .up {
-  margin-top: -32%;
+  margin-top: -15%;
   width: 45%;
   height: 55%;
 }
@@ -547,3 +552,4 @@ h4 {
   margin-left: 7%;
   margin-top: 5%;
 }
+.header-nav
